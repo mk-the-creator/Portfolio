@@ -43,8 +43,9 @@ It highlights my technical skills, projects, and contact information in a clean 
   Use Live Server in VS Code
 
 4. Live Demo
-  [Live Demo](https://your-username.github.io/portfolio/)
+  [Portfolio](https://your-username.github.io/portfolio/)
 
 5. Contact
    [GitHub](https://github.com/your-username)
-   [Email](mailto:m37897955@gmail.com)
+   
+   [m37897955@gmail.com](mailto:m37897955@gmail.com)
