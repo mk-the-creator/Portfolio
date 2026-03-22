@@ -43,9 +43,9 @@ It highlights my technical skills, projects, and contact information in a clean 
   Use Live Server in VS Code
 
 4. Live Demo
-  [Portfolio](https://your-username.github.io/portfolio/)
+  [Portfolio](https://mk-the-creator.github.io/Portfolio/)
 
 5. Contact
-   [GitHub](https://github.com/your-username)
+   [GitHub](https://github.com/mk-the-creator)
    
    [m37897955@gmail.com](mailto:m37897955@gmail.com)
