@@ -15,8 +15,7 @@ It highlights my technical skills, projects, and contact information in a clean 
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3
-- JavaScript
+- CSS
 - Git & GitHub
 
 ---
